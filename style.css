@@ -28,6 +28,22 @@
     margin: 10px;
   }
   
+  .header{
+    background-color: rgb(50, 167, 145);
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.trybewarts-login{
+    display: flex;
+}
+.trybewarts-header-logo{
+    width: 60px;
+}
+#trybewarts-header-title{
+    display: flex;
+    justify-content: center;
+}
   
   
   
