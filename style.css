@@ -1,0 +1,36 @@
+.conteiner {
+    display: flex;
+    border: solid 2px red;
+  }
+  
+  
+  #evaluation-form {
+    display: flex;
+    width: 675px;
+    flex-direction: column;
+  }
+  
+  #trybewarts-forms-logo {
+    height: 500px;
+  }
+  
+  .conteiner-nome-sobrenome {
+    display: flex;
+    margin: 10px;
+  }
+  
+  .conteiner-email-casa {
+    display: flex;
+    margin: 10px;
+  }
+  
+  .familia {
+    margin: 10px;
+  }
+  
+  
+  
+  
+  
+  
+  
