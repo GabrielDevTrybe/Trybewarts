@@ -1,6 +1,5 @@
 .conteiner {
     display: flex;
-    border: solid 2px red;
   }
   
   
@@ -45,7 +44,27 @@
   .avaliacao {
     margin: 10px;
   }
+
+  .textarea-conteiner {
+    margin: 10px;
+  }
   
+  .concorda {
+    margin: 10px;
+  }
+
+  .botao {
+    margin: 10px;
+  }
+
+  #submit-btn {
+    width: 83%;
+  }
+
+  footer {
+    text-align: center;
+  }
+
   .header{
     background-color: rgb(50, 167, 145);
     display: flex;
