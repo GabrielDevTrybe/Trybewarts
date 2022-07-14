@@ -27,6 +27,24 @@
   .familia {
     margin: 10px;
   }
+  .conteiner-familia {
+    margin: 10px;
+    display: flex;
+
+  }
+
+  .checkbox-conteiner {
+    margin-left: 10px;
+    text-align: center;
+  }
+
+  #input-lastname, #house, #casa {
+    margin-left: 10px;
+  }
+
+  .avaliacao {
+    margin: 10px;
+  }
   
   .header{
     background-color: rgb(50, 167, 145);
