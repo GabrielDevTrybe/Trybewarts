@@ -1,91 +1,67 @@
 .conteiner {
-    display: flex;
-  }
-  
-  
-  #evaluation-form {
-    display: flex;
-    width: 675px;
-    flex-direction: column;
-  }
-  
-  #trybewarts-forms-logo {
-    height: 500px;
-  }
-  
-  .conteiner-nome-sobrenome {
-    display: flex;
-    margin: 10px;
-  }
-  
-  .conteiner-email-casa {
-    display: flex;
-    margin: 10px;
-  }
-  
-  .familia {
-    margin: 10px;
-  }
-  .conteiner-familia {
-    margin: 10px;
-    display: flex;
-
-  }
-
-  .checkbox-conteiner {
-    margin-left: 10px;
-    text-align: center;
-  }
-
-  #input-lastname, #house, #casa {
-    margin-left: 10px;
-  }
-
-  .avaliacao {
-    margin: 10px;
-  }
-
-  .textarea-conteiner {
-    margin: 10px;
-  }
-  
-  .concorda {
-    margin: 10px;
-  }
-
-  .botao {
-    margin: 10px;
-  }
-
-  #submit-btn {
-    width: 83%;
-  }
-
-  footer {
-    text-align: center;
-  }
-
-  .header{
-    background-color: rgb(50, 167, 145);
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+  display: flex;
 }
-.trybewarts-login{
-    display: flex;
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
 }
-.trybewarts-header-logo{
-    width: 60px;
+#trybewarts-forms-logo {
+  height: 500px;
 }
-#trybewarts-header-title{
-    display: flex;
-    justify-content: center;
+.conteiner-nome-sobrenome {
+  display: flex;
+  margin: 10px;
 }
-#submit-btn{
-  align-items: flex-end;
+.conteiner-email-casa {
+  display: flex;
+  margin: 10px;
 }
-  
-  
-  
-  
-  
+.familia {
+  margin: 10px;
+}
+.conteiner-familia {
+  margin: 10px;
+  display: flex;
+}
+.checkbox-conteiner {
+  margin-left: 10px;
+  text-align: center;
+}
+#input-lastname , #house , #casa {
+  margin-left: 10px;
+}
+.avaliacao {
+  margin: 10px;
+}
+.textarea-conteiner {
+  margin: 10px;
+}
+.concorda {
+  margin: 10px;
+}
+.botao {
+  margin: 10px;
+}
+#submit-btn {
+  width: 83%;
+}
+footer {
+  text-align: center;
+}
+.header {
+  background-color: rgb(50, 167, 145);
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.trybewarts-login {
+  display: flex;
+}
+.trybewarts-header-logo {
+  width: 60px;
+}
+#trybewarts-header-title {
+  display: flex;
+  justify-content: center;
+}
